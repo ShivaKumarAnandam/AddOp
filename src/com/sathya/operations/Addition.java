@@ -6,8 +6,8 @@ public class Addition {
 		int num1 = 10;
 		int num2 = 20;
 		int result;
-		result = num1 + num2 ;
-		System.out.println("Addition of two numbers "+result);
+		result = num1 * num2 ;
+		System.out.println("Multiplication of two numbers "+result);
 	}
 	
 }
